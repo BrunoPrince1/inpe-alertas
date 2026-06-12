@@ -3,8 +3,10 @@
 Objetivo: app móvel para alertas de queimadas, inundações, desmatamento e relatos da população em
 tempo real.
 
-CI/CD Aula 3
+Matéria: Integração e Entrega Contínua!!!!
+#4 Semestre de DSM 💻
 
-CI/CD na Aula 4
 
-JEST na Aula 5
+[![codecov](https://codecov.io/github/andressatoledo/inpe-alertas/branch/dev/graph/badge.svg)](https://codecov.io/github/andressatoledo/inpe-alertas)
+
+[![Relatório](https://github.com/andressatoledo/inpe-alertas/actions/workflows/ci.yml/badge.svg)](https://github.com/andressatoledo/inpe-alertas/actions/workflows/ci.yml)
