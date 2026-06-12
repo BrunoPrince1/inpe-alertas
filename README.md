@@ -7,4 +7,4 @@ CI/CD Aula 3
 
 CI/CD na Aula 4
 
-JEST na Aula 5do 
+JEST na Aula 5
